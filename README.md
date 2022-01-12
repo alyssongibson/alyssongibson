@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alyssongibson               
 - 👀 I’m interested in ...  aprender e desenvolver web site                     
-- 🌱 I’m currently learning ... a desenvolve web site
-- 💞️ I’m looking to collaborate on ... desenvolver e construir web site
-- 📫 How to reach me ...  
+- 🌱 I’m currently learning ...desenvolvimento de site
+- 💞️ I’m looking to collaborate on ... desenvolvimetno de site
+- 📫 How to reach me ...    
 - 
 
 <!---
